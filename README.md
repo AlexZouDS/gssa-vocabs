@@ -11,7 +11,7 @@ This repository is managed so that vocabularies merged into the main branch here
 These vocabularies are presented online at:
 
 * LOCATION NOT AVAILABLE YET (Aug, 2024)
-    * [check back soon...](https://vocabularies.sarig.sa.gov.au)
+    * [SARIG](https://vocabularies.sarig.sa.gov.au)
 
 ## License  
 MER's vocabularies in this repository are licensed using the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence if created by MER. Vocabularies not created by MER have the licenses assigned to them declared in their metadata. For the CC BY 4.0 license deed, see the [LICENSE file](LICENSE).
